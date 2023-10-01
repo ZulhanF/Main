@@ -1,4 +1,4 @@
-<img src = "https://github.com/ZulhanF/ZulhanF/blob/main/Assets/68u.gif" width="100%" />
+<img src = "https://github.com/ZulhanF/ZulhanF/blob/main/Assets/8 Bit Japan Landscape.gif" width="75%" />
 <h1 align="center">Hi guys, My name is Zulhan. Nice to meet you👋</h1>
 
 
