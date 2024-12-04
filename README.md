@@ -1,5 +1,5 @@
 <img src = "https://github.com/ZulhanF/ZulhanF/blob/main/Assets/8 Bit Japan Landscape.gif" width="100%" />
-<h1 align="center">Hello, folks! I'm Zulhan, and I'm thrilled to create something amazing! 💡🚀</h1>
+<h1 align="center">Hello, folks! Zulhan here, and I'm thrilled to create something amazing! 💡🚀</h1>
 
 
 <img align="right" alt="Coding" width="400" src="https://github.com/ZulhanF/ZulhanF/blob/main/Assets/coding.gif">
